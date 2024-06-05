@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psi>
+    <pas>
+        <ime>Labrador Retriever</ime>
+        <vjek>10-14</vjek>
+        <tezina>25-36</tezina>
+        <visina>55-57</visina>
+        <grupa>lovcki</grupa>
+        <opis>Labrador Retriever je popularna pasmina poznata po svojoj prijateljskoj naravi i inteligenciji. Idealni su obiteljski psi i izvrsni su kao radni psi.</opis>
+    </pas>
+    <pas>
+        <ime>Njemački ovčar</ime>
+        <vjek>9-13</vjek>
+        <tezina>22-40</tezina>
+        <visina>58-63</visina>
+        <grupa>pastirski</grupa>
+        <opis>Njemački ovčar je snažna, inteligentna i svestrana pasmina. Često se koriste u policiji i vojsci zbog svoje hrabrosti i odanosti.</opis>
+    </pas>
+    <pas>
+        <ime>Zlatni retriver</ime>
+        <vjek>10-12</vjek>
+        <tezina>27-34</tezina>
+        <visina>51-61</visina>
+        <grupa>lovcki</grupa>
+        <opis>Zlatni retriver je poznat po svom prijateljskom ponašanju i ljepoti. Izvrsni su obiteljski ljubimci i često se koriste kao terapijski psi.</opis>
+    </pas>
+    <pas>
+        <ime>Beagle</ime>
+        <vjek>12-15</vjek>
+        <tezina>10-11</tezina>
+        <visina>33-40</visina>
+        <grupa>gonic</grupa>
+        <opis>Beagle je mali, energičan pas s izvrsnim njuhom. Poznati su po svojoj ljubaznosti i dobrom odnosu prema djeci.</opis>
+    </pas>
+    <pas>
+        <ime>Bulterijer</ime>
+        <vjek>10-13</vjek>
+        <tezina>20-30</tezina>
+        <visina>50-60</visina>
+        <grupa>terijer</grupa>
+        <opis>Bulterijer je prepoznatljiv po svom jedinstvenom izgledu i energičnoj prirodi. Vrlo su odani i zaštitnički nastrojeni prema svojim obiteljima.</opis>
+    </pas>
+</psi>

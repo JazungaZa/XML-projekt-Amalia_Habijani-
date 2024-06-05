@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Korijenski element -->
+    <xs:element name="psi">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="pas" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="ime" type="xs:string" />
+                            <xs:element name="vjek" type="xs:string" />
+                            <xs:element name="tezina" type="xs:string" />
+                            <xs:element name="visina" type="xs:string" />
+                            <xs:element name="grupa" type="xs:string" />
+                            <xs:element name="opis" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
